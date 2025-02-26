@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51869228720",
+    "project_id": "scantrade-66f93",
+    "storage_bucket": "scantrade-66f93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51869228720:android:1f85ab45b902491d5fe575",
+        "android_client_info": {
+          "package_name": "com.example.scantrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51869228720-1g9l43h0740o4nfbahjbho7ipl11j71k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scantrade",
+            "certificate_hash": "50e76789e012ecba458d6282c059f95243179df2"
+          }
+        },
+        {
+          "client_id": "51869228720-ic5jsbto1um4l4r38jhtdk06gj5i94tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8lwWUvCcnrlwTXUCo89QOaJso_3PMrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51869228720-ic5jsbto1um4l4r38jhtdk06gj5i94tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
